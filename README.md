@@ -10,7 +10,7 @@ Through this program, I explored **electrical engineering fundamentals**, applyi
 
 Projects:
 1. Printed Circuit Board Design
-   -designed op-amp circuits in LT Spice
+   - designed op-amp circuits in LT Spice
    - designed PCB schematics
 2. Simulation and Breadboarding
    -applied digital logic
