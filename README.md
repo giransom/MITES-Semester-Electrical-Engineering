@@ -25,6 +25,6 @@ Projects:
      -KiCAD
      -Breadboard
 
-Tools
-Hardware: Arduino, Breadboards, Sensors (Photoresistor, Resistor Networks)
-Software: KiCAD, Python, LTSpice, Excel
+Tools:
+   Hardware: Arduino, Breadboards, Sensors (Photoresistor, Resistor Networks)
+   Software: KiCAD, Python, LTSpice, Excel
